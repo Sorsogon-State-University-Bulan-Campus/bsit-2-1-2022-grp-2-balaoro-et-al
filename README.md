@@ -29,9 +29,9 @@ Yes, we have but parental guidance is advised.
 
 ## 🔎References🔎
 
-- [Source 1](https://github.com/Alyssa0404)
-- [Source 2](https://github.com/Alyssa0404)
+<!-- [Source 1](https://github.com/Alyssa0404)
+- [Source 2](https://github.com/Alyssa0404) -->
 
 ## 💛💛Special Thanks💛💛
-We would like to express our  sincerest gratitude to Sir Anthony Gacias, for doing his best to teach and guide us. Also, for giving this opportunity for us to learn the project versioning.
+<!--We would like to express our  sincerest gratitude to Sir Anthony Gacis, for doing his best to teach and guide us. Also, for giving this opportunity for us to learn the project versioning.-->
 

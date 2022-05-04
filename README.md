@@ -22,9 +22,9 @@ Yes, we have but parental guidance is advised.
 
 
 
-## Authors👩👨👧
+## 📝Authors
 
-- 👩[Alyssa Balaoro (@Alyssa0404)](https://github.com/Alyssa0404)
+- [Alyssa Balaoro (@Alyssa0404)](https://github.com/Alyssa0404)
 
 
 ## 🔎References🔎

@@ -26,6 +26,7 @@ Yes, we have but parental guidance is advised.
 
 - [Alyssa Balaoro (@Alyssa0404)](https://github.com/Alyssa0404)
 - [Adriel Balmes(@AdrielBalmes)](https://github.com/AdrielBalmes)
+- [Sharlene Bon(@BonSharlene)](https://github.com/BonSharlene)
 
 
 

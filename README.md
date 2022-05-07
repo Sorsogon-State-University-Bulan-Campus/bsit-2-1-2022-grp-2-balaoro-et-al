@@ -32,9 +32,12 @@ Yes, we have but parental guidance is advised.
 
 ## 🔎References🔎
 
-<!-- [Source 1](https://github.com/Alyssa0404)
-- [Source 2](https://github.com/Alyssa0404) -->
+
+- [Source 1](https://www.nami.org/getattachment/Extranet/NAMI-State-Organization-and-NAMI-Affiliate-Leaders/Awareness/AKA/Mental-Health-Fact-Sheets/Maintaining-a-Healthy-Lifestyle.pdf)
+- [Source 2](https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/calories.htm)
+- [Source 3](https://www.who.int/philippines/news/feature-stories/detail/20-health-tips-for-2020)
+- [Source 4](https://www.healthline.com/health/fitness-exercise/10-best-exercises-everyday)
 
 ## 💛💛Special Thanks💛💛
-<!--We would like to express our  sincerest gratitude to Sir Anthony Gacis, for doing his best to teach and guide us. Also, for giving this opportunity for us to learn the project versioning.-->
+We would like to express our  sincerest gratitude to Sir Anthony Gacis, for doing his best to teach and guide us. Also, for giving this opportunity for us to learn the project versioning.
 
